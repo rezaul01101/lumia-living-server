@@ -18,7 +18,10 @@
   "author": "Rezaul hoque",
   "license": "ISC",
   "lint-staged": {
-    "src/**/*.ts": ["yarn lint:check","yarn prettier:check"]
+    "src/**/*.ts": [
+      "yarn lint:check",
+      "yarn prettier:check"
+    ]
   },
   "devDependencies": {
     "@types/cors": "^2.8.17",
