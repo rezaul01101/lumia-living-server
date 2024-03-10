@@ -1,0 +1,15 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "/Users/Tareq/Rezaul/Softdevsol/Lumina Living/lumia-living-server/logs/winston/successes/.3bd557907da198b438814daab5d29d6d8289dce6-audit.json",
+    "files": [
+        {
+            "date": 1710046087859,
+            "name": "/Users/Tareq/Rezaul/Softdevsol/Lumina Living/lumia-living-server/logs/winston/successes/2024-10-03-10-success.log",
+            "hash": "5681138923c0b9cd64d2e1dfd62945931c0bf308a1d57dd58c02340706928b89"
+        }
+    ],
+    "hashType": "sha256"
+}
